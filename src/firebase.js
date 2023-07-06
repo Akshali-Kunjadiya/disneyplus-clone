@@ -6,17 +6,12 @@ import 'firebase/compat/storage';
 
 const firebaseConfig = {
 
-  apiKey: "AIzaSyAFYfn56nmfKliSrH6iqg0kEpd_5KHY8oY",
-
-  authDomain: "disney-plus-clone-e05f7.firebaseapp.com",
-
-  projectId: "disney-plus-clone-e05f7",
-
-  storageBucket: "disney-plus-clone-e05f7.appspot.com",
-
-  messagingSenderId: "212528442246",
-
-  appId: "1:212528442246:web:d27bc01dc8dfa1eb9bda07"
+  apiKey: "AIzaSyCXzPeLuTlJG9rt3XxvP8iN3VsNWBvfaW8",
+  authDomain: "disney-plus-clone-500ed.firebaseapp.com",
+  projectId: "disney-plus-clone-500ed",
+  storageBucket: "disney-plus-clone-500ed.appspot.com",
+  messagingSenderId: "425355503098",
+  appId: "1:425355503098:web:be45a607f49af7efecb043"
 
 };
 
