@@ -107,7 +107,9 @@ function Header() {
               <span>ORIGINALS</span>
           </a>
           <a>
-              <img src="/images/movies-icon.svg"/>
+              <img src="/images/play.png"/>
+            {/* <img width="30" height="30" src="https://img.icons8.com/ios-glyphs/30/cinema---v2.png" alt="cinema---v2"/> */}
+            {/* <img width="30" height="30" src="https://img.icons8.com/ios-glyphs/30/cinema---v2.png" alt="cinema---v2"/> */}
               <span>MOVIES</span>
           </a>
           <a>

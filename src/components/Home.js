@@ -52,6 +52,7 @@ const Home = (props) => {
         switch (doc.data().type) {
           case "recommend":
             recommends = [...recommends, { id: doc.id, ...doc.data() }];
+            console.log(recommends);
             break;
 
           case "new":
